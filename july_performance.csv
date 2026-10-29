@@ -1,0 +1,3 @@
+incident_id,mttr_hours,response_time_minutes,uptime_percentage
+INC-LD5-01,6.5,45,99.99
+INC-LD6-02,5.0,110,99.95

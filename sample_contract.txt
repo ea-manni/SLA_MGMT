@@ -1,0 +1,15 @@
+MASTER SERVICE AGREEMENT - VERTIV COOLING & CHILLERS
+Contract Reference: VRT-2024-IBX-09
+Monthly Recurring Maintenance Fee: $90,000.00
+Maximum Monthly Remedy Cap: 100% of Monthly Fee
+
+SCHEDULE B: SERVICE LEVEL AGREEMENTS & REMEDIES
+
+Section 4.1 - Mean Time to Restore (MTTR):
+Vendor guarantees that for Tier-1 chiller plant outages, the Mean Time to Restore (MTTR) shall not exceed 4.0 hours per incident. In the event of an MTTR breach, Vendor shall issue a Service Credit equal to 5.0% of the Monthly Maintenance Fee per occurrence.
+
+Section 5.2 - Emergency Response Time:
+Vendor's certified technician must arrive and badge in at the IBX facility within 60 minutes of ticket dispatch. Failure to meet the 60-minute window shall incur a Liquidated Penalty of $5,000.00 per breach.
+
+Section 6.3 - Chiller Plant Availability (Uptime):
+Vendor commits to maintaining monthly chiller plant uptime of at least 99.98%. Any drop below 99.98% warrants a Service Credit of 10.0% of the Monthly Fee.

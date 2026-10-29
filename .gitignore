@@ -1,0 +1,85 @@
+# --- Critical Security & Credentials (NEVER COMMIT) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+*.crt
+zscaler.crt
+
+# --- Python & Virtual Environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# --- IDEs & Code Editors ---
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# --- Operating System & Cloud Drive Artifacts ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# OneDrive synchronization temporary files
+*.tmp
+*.temp
+
+# --- Local Runtime Logs & Data Storage ---
+# Keep data folder structure via .gitkeep, but ignore generated audit and report outputs
+data/reports/*
+data/audit_log.json
+!data/specs/.gitkeep
+!data/reports/.gitkeep
+*.log
+
+# --- Python Packaging & Distribution ---
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+Approve
+Deny
